@@ -5,7 +5,7 @@
 
 Senior AI student specializing in machine learning, deep learning, and NLP. My current focus is on NLP, and I'm exploring frameworks like LangChain to develop LLM-based projects
 
-- 📫 How to reach me **OWDM1.ai@gmail.com**
+- 📫 How to reach me **owdm.ai@gmail.com**
 
 
 <h3 align="left">Connect with me:</h3>
