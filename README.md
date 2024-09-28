@@ -3,8 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=owdm&label=Profile%20views&color=0e75b6&style=flat" alt="owdm" /> </p>
 
-Senior AI student specializing in machine learning, deep learning, and NLP. My current focus is on NLP, and I'm exploring frameworks like LangChain to develop LLM-based projects
-
+Senior Artificial Intelligence student at University of Jeddah, specializing in machine learning, deep learning,  and natural language processing (NLP). My current focus is on NLP, particularly in leveraging AI to enhance human communication and text analysis.
 - 📫 Get in touch: **owdm.ai@gmail.com**
 
 
