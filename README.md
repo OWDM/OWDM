@@ -1,5 +1,11 @@
 <h1 align="center">Hi 👋, I'm Musaed</h1>
-<h3 align="center">Artificial Intelligence Engineer</h3>
+
+<p align="center">
+<a href="https://git.io/typing-svg">
+ <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=DFDFDF&center=true&width=435&lines=Artificial+Intelligence+Engineer;LLMs+Developer" alt="Typing SVG" /></a>
+<p/>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=OWDM&label=Profile%20views&color=0e75b6&style=flat" alt="Musaed" /> </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=owdm&label=Profile%20views&color=0e75b6&style=flat" alt="owdm" /> </p>
 
