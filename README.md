@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=owdm&label=Profile%20views&color=0e75b6&style=flat" alt="owdm" /> </p>
 
-Senior Artificial Intelligence student at University of Jeddah, specializing in machine learning, deep learning,  and natural language processing (NLP). My current focus is on NLP, particularly in leveraging AI to enhance human communication and text analysis.
+Generative AI Eng @ Nawat AI | BSc in Artificial Intelligence | Deep Learning & NLP Specialist | AI Agents Developer.
 - 📫 Get in touch: **owdm.ai@gmail.com**
 
 
