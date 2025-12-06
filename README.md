@@ -27,7 +27,7 @@ Generative AI Eng @ Nawat AI | BSc in Artificial Intelligence.
 </p>
 
 
-
+<h3 align="left">Or connect with me via: **owdm.ai@gmail.com**</h3>
 - Get in touch: **owdm.ai@gmail.com**
 
 
