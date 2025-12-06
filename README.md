@@ -8,7 +8,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=owdm&label=Profile%20views&color=0e75b6&style=flat" alt="owdm" /> </p>
 
-Generative AI Eng @ Nawat AI | BSc in Artificial Intelligence | Deep Learning & NLP Specialist | AI Agents Developer.
+Generative AI Eng @ Nawat AI | BSc in Artificial Intelligence
 - Get in touch: **owdm.ai@gmail.com**
 
 
