@@ -1,23 +1,28 @@
-<h1 align="center">Hi 👋, I'm Musaed Albedhani</h1>
+# Musaed Albedhani
 
-<p align="center">
-<a href="https://git.io/typing-svg">
- <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=DFDFDF&center=true&width=435&lines=Artificial+Intelligence+Engineer;LLMs+Developer" alt="Typing SVG" /></a>
-<p/>
+![Typing badge](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=DFDFDF&center=true&width=435&lines=Artificial+Intelligence+Engineer;LLMs+Developer)
+![Profile views](https://komarev.com/ghpvc/?username=owdm&label=Profile%20views&color=0e75b6&style=flat)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=owdm&label=Profile%20views&color=0e75b6&style=flat" alt="owdm" /> </p>
+Generative AI Engineer @ Nawat AI · AI Agents Developer · Deep Learning & NLP Specialist.
 
-Generative AI Eng @ Nawat AI | BSc in Artificial Intelligence | Deep Learning & NLP Specialist | AI Agents Developer.
-- Get in touch: **owdm.ai@gmail.com**
+## Snapshot
+- Ship LLM-powered agents and retrieval workflows from prototype to production quality.
+- Blend classic NLP with modern transformer stacks to keep latency low and accuracy high.
+- BSc in Artificial Intelligence; hands-on with model training, evaluation, and deployment.
+- Open to collaborations and speaking about applied GenAI and agent ecosystems.
 
+## Currently focused on
+- Building reliable LLM agents with solid tool use, memory, and evaluation harnesses.
+- Improving retrieval pipelines (chunking, reranking, vector stores) for enterprise data.
+- Rapid experimentation with prompt design, lightweight fine-tuning, and guardrails.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/owdm_ai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="owdm_ai" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/musaed-albedhani-875a102b3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="musaed-albedhani-875a102b3" height="30" width="40" /></a>
-</p>
+## Toolbox
+- Languages: Python, C/C++.
+- ML/AI: PyTorch, TensorFlow, deep learning and NLP workflows.
+- Data: SQL/MySQL; vectors, embeddings, and retrieval-aware storage.
+- Ops: Experiment tracking, model serving, and containerized deployments.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
-
-
+## Connect
+- Email: **owdm.ai@gmail.com**
+- Twitter: [@owdm_ai](https://twitter.com/owdm_ai)
+- LinkedIn: [Musaed Albedhani](https://linkedin.com/in/musaed-albedhani-875a102b3)
